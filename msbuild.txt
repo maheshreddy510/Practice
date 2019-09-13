@@ -1,0 +1,4 @@
+Visual Studio uses MSBuild to build your .NET projects. All MSBuild requires is a build script and a target within the build script to execute. Your *.csproj and *.vbproj files are MSBuild scripts.
+Go through this link
+https://docs.microsoft.com/en-us/visualstudio/msbuild/walkthrough-creating-an-msbuild-project-file-from-scratch?view=vs-2019
+for basic info
